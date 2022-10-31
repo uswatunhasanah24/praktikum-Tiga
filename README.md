@@ -11,33 +11,33 @@
 ## Latihan1
 ## Ketik rumus END yang di ecampus
 
-![gambar1](foto/fo1.png)
+![gambar1](Foto/fo1.png)
 
 ## String Format
-![gambar2](foto/fo9.png)
+![gambar2](Foto/fo9.png)
 
 
 ## Hasil Latihan 1
 
-![gambar5](foto/fo2.png)
+![gambar3](Foto/fo2.png)
 
-![gambar6](foto/fo3.png)
+![gambar4](Foto/fo3.png)
 
 ## Latihan 2
 ## Rumus variable
  
- ![gambar](foto/fo4.png)
+ ![gambar5](Foto/fo4.png)
 
 ### Hasil latihan 2
 
-![gambar6](foto/fo5.png)
+![gambar6](Foto/fo5.png)
 
 ### Latihan 3
 
 Menggunakan string format untuk membuat
 belah ketupat
 
-![gambar6](foto/fo6.png)
+![gambar7](Foto/fo6.png)
 
 ### Latihan 4
 
@@ -45,7 +45,7 @@ belah ketupat
 
 ## Flowchart untuk mencari lingkaran
 
-![gambar8](foto/ss7.png)
+![gambar8](Foto/ss7.png)
 
 ## Membuat program untuk menghitung luas lingkaran
 
@@ -79,4 +79,4 @@ L = phi * (r * r)
 
 ## Mencetak hasil 
 
-![gambar9](foto/fo8.png
+![gambar9](Foto/fo8.png)
